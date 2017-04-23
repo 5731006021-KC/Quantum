@@ -4049,6 +4049,42 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential",
+			"CookedPackageName": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "c49fdefdcf0f45a021e40b2a5c7d01d0",
+			"FullPackageHash": "bd14429c84fddfb2bb941328ed8f832a",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset",
+			"CookedPackageName": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "ea80500a706bd9ef7deaf18d2cc5a885",
+			"FullPackageHash": "e76afb4f863f9cec971ec2c0f2082327",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
 			"CookedPackageName": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -4138,6 +4174,23 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable",
+			"CookedPackageName": "/Engine/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "39576dfa1f234a5b3aef6bd78f7f8f4e",
+			"FullPackageHash": "877f5a75e02d079de4b81ce707d438da",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions02/ScreenResolution",
 			"CookedPackageName": "/Engine/Functions/Engine_MaterialFunctions02/ScreenResolution",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -4151,6 +4204,23 @@
 				"/Script/CoreUObject",
 				"/Script/Engine",
 				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions02/SplitComponents",
+			"CookedPackageName": "/Engine/Functions/Engine_MaterialFunctions02/SplitComponents",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "aad8f33e820ed821caf01094e82c869e",
+			"FullPackageHash": "ad08027ab43287965f4d9c2f8e5363c8",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
 			],
 			"FileSize": "-1",
 			"AssetData": []
@@ -4273,6 +4343,24 @@
 			"SucceededSave": "true",
 			"DependentPackageHash": "bdda2cdc15447cdc56f3073df2782068",
 			"FullPackageHash": "a4d197b03f70e4754fa9092c0a75ba5a",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped",
+			"CookedPackageName": "/Engine/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "8f1b372bf25a886cd2be3717f342f3ee",
+			"FullPackageHash": "bd6a29315694569613c48041778aa55a",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -6036,8 +6124,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Button.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "31b993f52512f55860c0d05a0c0a5433",
-			"FullPackageHash": "f8f5f087d8503959a961b96eaf2affc8",
+			"DependentPackageHash": "b7e8782d6499b8b36e2501c741c8157e",
+			"FullPackageHash": "42ef57f21bca4aca71a844e13dcb63d8",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6058,6 +6146,40 @@
 			"SucceededSave": "true",
 			"DependentPackageHash": "819d6bdbc7b5a4d60ae45030c448bff7",
 			"FullPackageHash": "378dc24161998d650a4f94fa3cd82dde",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Blueprint/Enum/LaserSourceEnum",
+			"CookedPackageName": "/Game/Blueprint/Enum/LaserSourceEnum",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Enum/LaserSourceEnum.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "4b419206baa94ed5f4988a38610a4c9d",
+			"FullPackageHash": "a4b2b6b271395d85ddd5f6c48f22ce8d",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Blueprint/Enum/TheBoxEnum",
+			"CookedPackageName": "/Game/Blueprint/Enum/TheBoxEnum",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Enum/TheBoxEnum.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "6d68eccdf7d73bb437ecca5d0d3e0edc",
+			"FullPackageHash": "e4db9be876551e2e1c642da6f871c8e3",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
@@ -6113,8 +6235,28 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Laser.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "819707ee0bcdffdf47f71423f3210b74",
-			"FullPackageHash": "3d8ad4a73de38676c78c977ef4cf98bc",
+			"DependentPackageHash": "4a433a9f01558a6bc04e9ed8b308710b",
+			"FullPackageHash": "31206adf97c347f5c325f493ed719a78",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Blueprint/LaserSource",
+			"CookedPackageName": "/Game/Blueprint/LaserSource",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/LaserSource.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "177728c60135e9607fcf06706c77e4ac",
+			"FullPackageHash": "bd721ecd1a3767fa4115809f528a4579",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6133,8 +6275,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/LowMassBullet.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "acc6078dbf8ea78252a8ead4266ab89c",
-			"FullPackageHash": "9e26cf1822d95e947ff7c5562b736a5c",
+			"DependentPackageHash": "ecde528fdd47ff6ccdb8779f08909f71",
+			"FullPackageHash": "0f16b775e45fbefb5f3438661692c2ec",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6173,8 +6315,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Player.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "ab43c81bd98dd04231f2ce670a699ffb",
-			"FullPackageHash": "d8fda3b9ea9031049177b5164cd706a6",
+			"DependentPackageHash": "9c380d92cf1837c13e2272c831b73c05",
+			"FullPackageHash": "cb05e7e285ee6e1646209f99144299ef",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6234,8 +6376,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/TheBox.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "fb05396fcdcdc225976796dc81098f5d",
-			"FullPackageHash": "24042a36b52208c3118178071109c68b",
+			"DependentPackageHash": "842aeb44a507b21d2058e943013154ed",
+			"FullPackageHash": "02b611f9840898aadb86582861314c12",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6292,9 +6434,10 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Maps/TutorialMap.umap",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "2eb9a0f69aa565bfb9c5249bbc789eeb",
-			"FullPackageHash": "1dcb4757428d1cc0f7e6cee94db1deb3",
+			"DependentPackageHash": "046e466cb7547ea820f564fe091a4278",
+			"FullPackageHash": "a3cf65cd64cc1afa229b700a03f1845e",
 			"DependencyData": [
+				"/Script/BlueprintGraph",
 				"/Script/CoreUObject",
 				"/Script/Engine",
 				"/Script/Foliage",
@@ -6311,8 +6454,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Maps/TutorialMap_BuiltData.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "1bfa07bc321731af8a2158d768797f4c",
-			"FullPackageHash": "5570c2c9f984ab5a1ec3e90d5558ec13",
+			"DependentPackageHash": "d8a7984fb66df7b8391212474279da25",
+			"FullPackageHash": "12c2676744bb198250040646156563f0",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
@@ -6328,8 +6471,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Material/Button/Button_Base_Mat.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "b3f665d94d67ad5f64a4dfb330e87085",
-			"FullPackageHash": "96f4cffc14aca0672806dfe56559f05d",
+			"DependentPackageHash": "c78945356ed0202febb4dc5488af19b3",
+			"FullPackageHash": "f83fbc0ce4a32d14cb4a546cc8e454e3",
 			"DependencyData": [
 				"*** SHADERSOURCE ***",
 				"/Script/CoreUObject",
@@ -6446,6 +6589,80 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Game/Material/Energy/CombinedRGB",
+			"CookedPackageName": "/Game/Material/Energy/CombinedRGB",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/Energy/CombinedRGB.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "7c803afbecc0e5e5453ed67b339cc2e9",
+			"FullPackageHash": "fe9ffa670fe186323a97eccc58552bff",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/Energy/GPUTailFX",
+			"CookedPackageName": "/Game/Material/Energy/GPUTailFX",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/Energy/GPUTailFX.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "28dfe75884ffc9e967c3cba9c5d225d7",
+			"FullPackageHash": "a342dede9ecb55527cc6b97728393e95",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/Energy/OrbFXMat",
+			"CookedPackageName": "/Game/Material/Energy/OrbFXMat",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/Energy/OrbFXMat.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "bcabd0e7d0c39fee38104a5242888a54",
+			"FullPackageHash": "7e1c66c09cc8b4f217ab41c66542384b",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/Energy/TailFXMat",
+			"CookedPackageName": "/Game/Material/Energy/TailFXMat",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/Energy/TailFXMat.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "aa5aec0233c2beaec4baeb072a570286",
+			"FullPackageHash": "d947c65a1df067c9e2aaa175904a8002",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Game/Material/HighMassMat",
 			"CookedPackageName": "/Game/Material/HighMassMat",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -6465,15 +6682,83 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/Material/LowMassMat",
-			"CookedPackageName": "/Game/Material/LowMassMat",
+			"SourcePackageName": "/Game/Material/LaserSource/Laser_LaserSource_BaseColor",
+			"CookedPackageName": "/Game/Material/LaserSource/Laser_LaserSource_BaseColor",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/Material/LowMassMat.uasset",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/LaserSource/Laser_LaserSource_BaseColor.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "45f9fdf199390f22e55bcd6e77c3e1e6",
-			"FullPackageHash": "e3876e3f219d1a06d48dcb27be3fe3db",
+			"DependentPackageHash": "4d855dd9d2c570ee9d3165a1fbf1d813",
+			"FullPackageHash": "15525c0540ae041280573a7ddb7c7d4e",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/LaserSource/Laser_LaserSource_Emissive",
+			"CookedPackageName": "/Game/Material/LaserSource/Laser_LaserSource_Emissive",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/LaserSource/Laser_LaserSource_Emissive.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a627a70f993d415f56945d24e83a729d",
+			"FullPackageHash": "ae3eca06b068b4f48dd15d791507734a",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/LaserSource/Laser_LaserSource_Normal",
+			"CookedPackageName": "/Game/Material/LaserSource/Laser_LaserSource_Normal",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/LaserSource/Laser_LaserSource_Normal.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "7bb68d9d0a844ff62266bea694725fe2",
+			"FullPackageHash": "78e3375c87816fe4c2b16aced8aae122",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/LaserSource/Laser_LaserSource_OcclusionRoughnessMetallic",
+			"CookedPackageName": "/Game/Material/LaserSource/Laser_LaserSource_OcclusionRoughnessMetallic",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/LaserSource/Laser_LaserSource_OcclusionRoughnessMetallic.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "6f82cc412983905a2a5d8ab06f48a54a",
+			"FullPackageHash": "bae07b8c5c5509d25a27a656ef908680",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/LaserSource/LaserSource_Mat",
+			"CookedPackageName": "/Game/Material/LaserSource/LaserSource_Mat",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/LaserSource/LaserSource_Mat.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1b0af64b62daf12c0ce3aa560fc1cb3c",
+			"FullPackageHash": "fe6f3772a273ed780b5c937d6ae4fa0f",
 			"DependencyData": [
 				"*** SHADERSOURCE ***",
 				"/Script/CoreUObject",
@@ -6679,15 +6964,136 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/Material/TheBoxMat",
-			"CookedPackageName": "/Game/Material/TheBoxMat",
+			"SourcePackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Body_BaseColor",
+			"CookedPackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Body_BaseColor",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxMat.uasset",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxMetalTexture/TheBox_Body_BaseColor.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "2d9834a563c25a010156743fc85f31d2",
-			"FullPackageHash": "4abdfd306f504e539b5be841b7f49d7b",
+			"DependentPackageHash": "8bc0420a851e34ad2b356a46f679aaec",
+			"FullPackageHash": "d6ffcbb206215d9fbe000baea0d99014",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Body_Normal",
+			"CookedPackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Body_Normal",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxMetalTexture/TheBox_Body_Normal.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "ee5953dfe8304f092acb351fbb882c68",
+			"FullPackageHash": "41bfbfd4f582ad5ab57468faeea9edb1",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Body_OcclusionRoughnessMetallic",
+			"CookedPackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Body_OcclusionRoughnessMetallic",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxMetalTexture/TheBox_Body_OcclusionRoughnessMetallic.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1edc9d4613abe1ad1d0bc33ed19557e3",
+			"FullPackageHash": "f65e363897173eae6cd9bddc63bdb33f",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Glass_BaseColor",
+			"CookedPackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Glass_BaseColor",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxMetalTexture/TheBox_Glass_BaseColor.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "114e4d5e313408a0144c161b28c9f856",
+			"FullPackageHash": "70bb4ae722b5c39e6974680a0ce2b52c",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Glass_Normal",
+			"CookedPackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Glass_Normal",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxMetalTexture/TheBox_Glass_Normal.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "864373a8d92241befd03fd1f471fa5fe",
+			"FullPackageHash": "4f0e86b13711ab740c7c63626b951cd5",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Glass_OcclusionRoughnessMetallic",
+			"CookedPackageName": "/Game/Material/TheBoxMetalTexture/TheBox_Glass_OcclusionRoughnessMetallic",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxMetalTexture/TheBox_Glass_OcclusionRoughnessMetallic.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "370517e7b7702aaedf078dfc9c81d908",
+			"FullPackageHash": "5fde56d5dfa1095a802c65e2cd20446f",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxMetalTexture/TheBoxMetal_Body_Mat",
+			"CookedPackageName": "/Game/Material/TheBoxMetalTexture/TheBoxMetal_Body_Mat",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxMetalTexture/TheBoxMetal_Body_Mat.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "f70d9dcfb05d7ddc153ec066862ea218",
+			"FullPackageHash": "b99f4fe7495bc8104ed913dea0788ee5",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxMetalTexture/TheBoxMetal_Glass_Mat",
+			"CookedPackageName": "/Game/Material/TheBoxMetalTexture/TheBoxMetal_Glass_Mat",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxMetalTexture/TheBoxMetal_Glass_Mat.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1b38ff57a8bd1fad1c68c53727b41577",
+			"FullPackageHash": "350cab1bb24fd28f6a9300ea1a257631",
 			"DependencyData": [
 				"*** SHADERSOURCE ***",
 				"/Script/CoreUObject",
@@ -6739,8 +7145,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxTexture/TheBox_Body_Mat.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "2d171aeca3671b60f8e520fa3bfcc740",
-			"FullPackageHash": "c30ddd252dca03458e18c94c50f2d7c0",
+			"DependentPackageHash": "77d1240814fae958ac3bc59d771b40b3",
+			"FullPackageHash": "23e51dc637e038211ada1c02f824c2a4",
 			"DependencyData": [
 				"*** SHADERSOURCE ***",
 				"/Script/CoreUObject",
@@ -6869,6 +7275,146 @@
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Body_BaseColor",
+			"CookedPackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Body_BaseColor",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxWoodTexture/TheBox_Body_BaseColor.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "f0d88741ee8910ba5545aaad3f23ff8f",
+			"FullPackageHash": "cccd9ae6a8b9142042577a38880149eb",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Body_Normal",
+			"CookedPackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Body_Normal",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxWoodTexture/TheBox_Body_Normal.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "5f4f20c9b5a5ebeff6ec4bb655a3aab1",
+			"FullPackageHash": "1c0df3bd525bdbbbdd6e821a8787842b",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Body_OcclusionRoughnessMetallic",
+			"CookedPackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Body_OcclusionRoughnessMetallic",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxWoodTexture/TheBox_Body_OcclusionRoughnessMetallic.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "93c2661425f0b3700bc58f43b4a9441e",
+			"FullPackageHash": "c21444760d39c41b06a44ac66d57c5e4",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Glass_BaseColor",
+			"CookedPackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Glass_BaseColor",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxWoodTexture/TheBox_Glass_BaseColor.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "219355df7104c0abc569b35f0dc7cd90",
+			"FullPackageHash": "db6b51a1193989d6965f13f9ae1ea017",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Glass_Normal",
+			"CookedPackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Glass_Normal",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxWoodTexture/TheBox_Glass_Normal.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "168de7b19b245b8671f5c719a66e72a6",
+			"FullPackageHash": "001db7802e7bd8fe00b239bc382ba389",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Glass_OcclusionRoughnessMetallic",
+			"CookedPackageName": "/Game/Material/TheBoxWoodTexture/TheBox_Glass_OcclusionRoughnessMetallic",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxWoodTexture/TheBox_Glass_OcclusionRoughnessMetallic.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "7b916761c4008c0ca5e25c6ac4491d89",
+			"FullPackageHash": "e206b18c66d9fe3f999c6d03b000fe6d",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxWoodTexture/TheBoxWood_Body_Mat",
+			"CookedPackageName": "/Game/Material/TheBoxWoodTexture/TheBoxWood_Body_Mat",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxWoodTexture/TheBoxWood_Body_Mat.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1b713d8b6842cb4a3aff2dab9dff360c",
+			"FullPackageHash": "2effe0647f2263a0a50b68b42a87b132",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TheBoxWoodTexture/TheBoxWood_Glass_Mat",
+			"CookedPackageName": "/Game/Material/TheBoxWoodTexture/TheBoxWood_Glass_Mat",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TheBoxWoodTexture/TheBoxWood_Glass_Mat.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "3e804ef640064991c777f9cbfb5635e4",
+			"FullPackageHash": "a94c091a15d3ef03b218621443ceb278",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
@@ -7031,18 +7577,93 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/ParticleAndPhyMat/PT_Beam",
-			"CookedPackageName": "/Game/ParticleAndPhyMat/PT_Beam",
+			"SourcePackageName": "/Game/Material/Unit_Highlight_Mat/MF_ConvolveTexture",
+			"CookedPackageName": "/Game/Material/Unit_Highlight_Mat/MF_ConvolveTexture",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/ParticleAndPhyMat/PT_Beam.uasset",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/Unit_Highlight_Mat/MF_ConvolveTexture.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "1c99738b8ef0e31a543ebd012acd49cc",
-			"FullPackageHash": "51606dc51bae1b6e472f0d035ddd3dfb",
+			"DependentPackageHash": "356e37d556e4922f4354e81c75c88bda",
+			"FullPackageHash": "f7c799c34d87374a446ba62cb4a50fd8",
 			"DependencyData": [
 				"/Script/CoreUObject",
-				"/Script/Engine"
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/Unit_Highlight_Mat/MF_ExtractDepth",
+			"CookedPackageName": "/Game/Material/Unit_Highlight_Mat/MF_ExtractDepth",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/Unit_Highlight_Mat/MF_ExtractDepth.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "834fd067011a76785b4ebeab4d69be01",
+			"FullPackageHash": "75f83709c34e2111bfdcd876bd743cfc",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/Unit_Highlight_Mat/MF_SampleSceneTextureNeighbourUVs",
+			"CookedPackageName": "/Game/Material/Unit_Highlight_Mat/MF_SampleSceneTextureNeighbourUVs",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/Unit_Highlight_Mat/MF_SampleSceneTextureNeighbourUVs.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "8cee9017526136f33b6780db7a4adb51",
+			"FullPackageHash": "ea286365ade07e58f567aa773df83682",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/Unit_Highlight_Mat/PP_Outliner_Inst",
+			"CookedPackageName": "/Game/Material/Unit_Highlight_Mat/PP_Outliner_Inst",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/Unit_Highlight_Mat/PP_Outliner_Inst.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "bb5e18d37dd1f8379c5fae3f8b2a7e06",
+			"FullPackageHash": "5739673b54816fc5ef6725c10508039e",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/Unit_Highlight_Mat/PP_Outliner_M",
+			"CookedPackageName": "/Game/Material/Unit_Highlight_Mat/PP_Outliner_M",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/Unit_Highlight_Mat/PP_Outliner_M.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "595001d7344e3161fcab7cc37aaf0e71",
+			"FullPackageHash": "10b19e79e69762a279d24fc84754dc8a",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
@@ -7055,8 +7676,42 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/ParticleAndPhyMat/PT_Laser.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "3dcb3e63e6bf210491d0de5855ec0c69",
-			"FullPackageHash": "627ccb320c1dbe0b6bba2cbb9bf16426",
+			"DependentPackageHash": "d1376afc8ef288ef3cdc98fc6c789819",
+			"FullPackageHash": "2f32bbe1c9130e0b0c8d7334bfc81561",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/ParticleAndPhyMat/PT_Lighting",
+			"CookedPackageName": "/Game/ParticleAndPhyMat/PT_Lighting",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/ParticleAndPhyMat/PT_Lighting.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "fdedf2d3abfe59407d89c9b4252b3a93",
+			"FullPackageHash": "baf43560896dc06bbed1776cc3961b9e",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/ParticleAndPhyMat/PT_LowMassBL",
+			"CookedPackageName": "/Game/ParticleAndPhyMat/PT_LowMassBL",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/ParticleAndPhyMat/PT_LowMassBL.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a3789a14f90444374c1fd51e3383ccf4",
+			"FullPackageHash": "cf723c035dbf530127dc8eda57559a92",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
@@ -7160,8 +7815,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/SkeletonMesh/TheBox_Core/TheBoxCore.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "2a105137efa2c58c86186f23bd20db5d",
-			"FullPackageHash": "46cedb51b41f0fc6cef485bb0b9a9023",
+			"DependentPackageHash": "c80a3a3f3d12ef16b9fc4ac5ee3931c7",
+			"FullPackageHash": "7a425eebf34276fae319189cbe8a0ce5",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -7300,8 +7955,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Materials/M_Basic_Wall.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "a0892081926391c51bc9fa80b88e6efb",
-			"FullPackageHash": "d0214f9ef818f4dfbc2ba51b732df8a7",
+			"DependentPackageHash": "38fb94a3fe72012f72f74c9dbdfd055b",
+			"FullPackageHash": "8de89b56ceb795a1602e79004922e5dd",
 			"DependencyData": [
 				"*** SHADERSOURCE ***",
 				"/Script/CoreUObject",
@@ -7312,75 +7967,20 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
-			"CookedPackageName": "/Game/StarterContent/Particles/Materials/M_Radial_Gradient",
+			"SourcePackageName": "/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn",
+			"CookedPackageName": "/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "cac117dc3fc77f41229051555422521a",
-			"FullPackageHash": "565d1d150ab47a63564941fb2ed35f82",
+			"DependentPackageHash": "8f5608f7f1628df8a06f2dd8f6fe828c",
+			"FullPackageHash": "d50148521ad93946f1452015264355c1",
 			"DependencyData": [
 				"*** SHADERSOURCE ***",
 				"/Script/CoreUObject",
 				"/Script/Engine",
 				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Particles/Materials/M_smoke_subUV",
-			"CookedPackageName": "/Game/StarterContent/Particles/Materials/M_smoke_subUV",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "c2c6dc41589189b83a3644f9299d48ff",
-			"FullPackageHash": "5585f31058ca649025632f2a85839bae",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Particles/Materials/M_Spark",
-			"CookedPackageName": "/Game/StarterContent/Particles/Materials/M_Spark",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Particles/Materials/M_Spark.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "12d387df75f304e253f2a974b627ec5e",
-			"FullPackageHash": "8f616513113a3ba5c612e8f616b5c7cc",
-			"DependencyData": [
-				"*** SHADERSOURCE ***",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Game/StarterContent/Particles/P_Sparks",
-			"CookedPackageName": "/Game/StarterContent/Particles/P_Sparks",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Particles/P_Sparks.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "true",
-			"DependentPackageHash": "4a7b3bf4d7b4270249be2d7a2ef79fea",
-			"FullPackageHash": "3cedbf601146e1ff34eb60bdea208d90",
-			"DependencyData": [
-				"/Script/CoreUObject",
-				"/Script/Engine"
 			],
 			"FileSize": "-1",
 			"AssetData": []
@@ -7404,15 +8004,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/StarterContent/Textures/T_Smoke_SubUV",
-			"CookedPackageName": "/Game/StarterContent/Textures/T_Smoke_SubUV",
+			"SourcePackageName": "/Game/StarterContent/Textures/T_MacroVariation",
+			"CookedPackageName": "/Game/StarterContent/Textures/T_MacroVariation",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Textures/T_Smoke_SubUV.uasset",
+			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Textures/T_MacroVariation.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "4e5711f9053dff500c4c7a1c3f62e66e",
-			"FullPackageHash": "c6257146339f2623a8315446f29544ec",
+			"DependentPackageHash": "44a17faa0e3626562a1931238f5051a4",
+			"FullPackageHash": "1ebb6698e84763c75113c294268befc1",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
@@ -7421,15 +8021,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/StarterContent/Textures/T_Smoke_Tiled_D",
-			"CookedPackageName": "/Game/StarterContent/Textures/T_Smoke_Tiled_D",
+			"SourcePackageName": "/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D",
+			"CookedPackageName": "/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset",
+			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "8e9329f9c70d9f42ea2c5580f620d60b",
-			"FullPackageHash": "98da34ca4c7ed75bdbec559572cbbc9d",
+			"DependentPackageHash": "a4103f796ee3852fdaccaa7e1c76d07d",
+			"FullPackageHash": "cedf575e83815bfa4d0b9b5db220080a",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
@@ -7438,15 +8038,32 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/StarterContent/Textures/T_Spark_Core",
-			"CookedPackageName": "/Game/StarterContent/Textures/T_Spark_Core",
+			"SourcePackageName": "/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M",
+			"CookedPackageName": "/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Textures/T_Spark_Core.uasset",
+			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "6a6072fe2c8297bbe7555590d081ec35",
-			"FullPackageHash": "ade4578aaee42941cf0b35c0fc548c26",
+			"DependentPackageHash": "3791f2981155098672df9245586df803",
+			"FullPackageHash": "384e130b2b35557136a33a4587052a6f",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N",
+			"CookedPackageName": "/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "5034509cd8c71addc430d116043c1a4c",
+			"FullPackageHash": "28d68e44eab5d0e47158c674b80ae8c1",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
@@ -7462,8 +8079,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/Button.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "dc2629294ba6dfdb193ca70c3dfff4e7",
-			"FullPackageHash": "e899eab2984c087d0460426dcd70c806",
+			"DependentPackageHash": "2c9b7b824b9e20aa3505c5f3ff51a502",
+			"FullPackageHash": "899d6d94317ccc3a0402313a02f74ad2",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -7480,8 +8097,98 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/ButtonBase.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "b149b11f90df1640c0043ed28b2126ba",
-			"FullPackageHash": "58cd03b215fe7da9a37faf3085f48679",
+			"DependentPackageHash": "d56f207a5da439a585322a296289f3da",
+			"FullPackageHash": "15dc6f58f2d83608750f32a4b3e2eac6",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/StaticMesh/Energy/Centersphere",
+			"CookedPackageName": "/Game/StaticMesh/Energy/Centersphere",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/Energy/Centersphere.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "c77bd1b6867ffbdadb8edc2ed82b29fd",
+			"FullPackageHash": "7495a5ca0b12666c1271e15539ebf370",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/StaticMesh/Energy/ParticleTailFX01",
+			"CookedPackageName": "/Game/StaticMesh/Energy/ParticleTailFX01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/Energy/ParticleTailFX01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "79811c9dcf2da45612ac1b6f88d8ae49",
+			"FullPackageHash": "c57770176302c9604a9410869502dded",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/StaticMesh/Energy/ParticleTailFX02",
+			"CookedPackageName": "/Game/StaticMesh/Energy/ParticleTailFX02",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/Energy/ParticleTailFX02.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "692dd24d2d28b6010d7642c81e3cd44e",
+			"FullPackageHash": "7128e69f241021603cafc3e6d86d20e2",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/StaticMesh/Energy/ProjectileShield01",
+			"CookedPackageName": "/Game/StaticMesh/Energy/ProjectileShield01",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/Energy/ProjectileShield01.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "ff0bc51731156bae20fcc73b06c0eb9f",
+			"FullPackageHash": "8d456e17863cf8f6b8f026febdec31c4",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/StaticMesh/Energy/ProjectileShield02",
+			"CookedPackageName": "/Game/StaticMesh/Energy/ProjectileShield02",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/Energy/ProjectileShield02.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "c053b4deea952c52655fdd385f5b8e9d",
+			"FullPackageHash": "d32faed0d8525a60acee1b642288833b",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -7498,8 +8205,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/Laser.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "439ffd49e4ca78335be4a99806db84ab",
-			"FullPackageHash": "66b84106a9ccae9d00ebc1293937864f",
+			"DependentPackageHash": "cb8fd3101f0cd83a9a6c2b3c14a17829",
+			"FullPackageHash": "90465e63a2cf9ea345c0f8b0546f2b64",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -7516,8 +8223,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/Platform.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "0feb42174c2e151148df78aa34dffa54",
-			"FullPackageHash": "906f3cfcf62b9288fa8ea9357a199ca5",
+			"DependentPackageHash": "2a3cb1f979ca17227034203319fa5a3b",
+			"FullPackageHash": "59383ab46f5f2c0da01fdc3aa27ce7f5",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -7534,8 +8241,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/TheBox.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "c932fc81d670d3b862ef5a94f3239c64",
-			"FullPackageHash": "aedbbb52a3ad413b4df5f115354df4e7",
+			"DependentPackageHash": "71ab6ea39fd5000be162c10205e8274e",
+			"FullPackageHash": "6140a93b7f5c0cece5010d49f4c2cd87",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -7552,8 +8259,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/StaticMesh/TheBox_DM.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "ceb15d68dffa289f2ddb37a27e02baa9",
-			"FullPackageHash": "bc49dacf06a2e01dca199bb57a9281f4",
+			"DependentPackageHash": "b74504183bb03e78c8716467055af041",
+			"FullPackageHash": "151f0106bddffdcea3de34cd9394789f",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
@@ -7572,6 +8279,27 @@
 			"SucceededSave": "false",
 			"DependentPackageHash": "5118c2dbc9f0202e6075e9138e7776af",
 			"FullPackageHash": "6cce638b46ac228277e18622b5dc1c89",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintEditorTutorial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "80ee177443711b70171105900ae58fb2",
+			"FullPackageHash": "0c67253d801b2958a936356a0e2def8f",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -7614,6 +8342,90 @@
 			"SucceededSave": "false",
 			"DependentPackageHash": "29761a9f76330a801686c91d23a266cf",
 			"FullPackageHash": "42dad1ed01484972cdd7ec57c72014e9",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/Paper2D/FlipbookEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/Paper2D/FlipbookEditorTutorial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "6818fed96ea050ffa5fac64eb4fc63e5",
+			"FullPackageHash": "8ec82900440995dd1a5d487a212d9d97",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/Paper2D/SpriteEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/Paper2D/SpriteEditorTutorial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "fc510b558bc25b32e7020fe75fa2f39a",
+			"FullPackageHash": "51335c85dcf6a454bc0cbebf4226f331",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/SubEditors/PersonaAnimEditorWalkThrough",
+			"CookedPackageName": "/Engine/Tutorial/SubEditors/PersonaAnimEditorWalkThrough",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "f6c1396bfb09c6eff38f30c42252e42a",
+			"FullPackageHash": "d21aed44fb7dcf646b8de7891c52252a",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
+			"CookedPackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "f15951b0851da1b3635adebbe46daa88",
+			"FullPackageHash": "53aeb738d00dc0efe180e887577023d7",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -7712,69 +8524,6 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/Paper2D/FlipbookEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/Paper2D/FlipbookEditorTutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "6818fed96ea050ffa5fac64eb4fc63e5",
-			"FullPackageHash": "8ec82900440995dd1a5d487a212d9d97",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/Paper2D/SpriteEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/Paper2D/SpriteEditorTutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "fc510b558bc25b32e7020fe75fa2f39a",
-			"FullPackageHash": "51335c85dcf6a454bc0cbebf4226f331",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/SubEditors/PersonaAnimEditorWalkThrough",
-			"CookedPackageName": "/Engine/Tutorial/SubEditors/PersonaAnimEditorWalkThrough",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "f6c1396bfb09c6eff38f30c42252e42a",
-			"FullPackageHash": "d21aed44fb7dcf646b8de7891c52252a",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
 			"SourcePackageName": "/Engine/Tutorial/SubEditors/ParticleSystemEditorTutorial",
 			"CookedPackageName": "/Engine/Tutorial/SubEditors/ParticleSystemEditorTutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -7805,27 +8554,6 @@
 			"SucceededSave": "false",
 			"DependentPackageHash": "370e0d31d787528f1e6f7e847ab2f631",
 			"FullPackageHash": "5d398235aaaf28ea9471e3aa9eba36a8",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
-			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "e78fdfae30394032d883ea8565d74d69",
-			"FullPackageHash": "f85d7a5026b43446a3fb5438b8e7a005",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -7985,36 +8713,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintEditorTutorial",
+			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
+			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "80ee177443711b70171105900ae58fb2",
-			"FullPackageHash": "0c67253d801b2958a936356a0e2def8f",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
-			"CookedPackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "f15951b0851da1b3635adebbe46daa88",
-			"FullPackageHash": "53aeb738d00dc0efe180e887577023d7",
+			"DependentPackageHash": "e78fdfae30394032d883ea8565d74d69",
+			"FullPackageHash": "f85d7a5026b43446a3fb5438b8e7a005",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
