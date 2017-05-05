@@ -6273,8 +6273,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Laser.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "55db87ebe85c0d9fe4b935f607d68757",
-			"FullPackageHash": "5af5f68a330c8fd0ed655efaab135888",
+			"DependentPackageHash": "9b6987ccdfca95b4b6f1db852d724b27",
+			"FullPackageHash": "c40d6007b35a0c276af44136a40ed665",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6433,8 +6433,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/PuzzlePlayer.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "3e874bb58b0b89176acafbe371133c70",
-			"FullPackageHash": "0e059cd8ec80eb4b603c240b5b571432",
+			"DependentPackageHash": "843e9655c272214b5161b182ddccd61f",
+			"FullPackageHash": "77c46d51d6d2119382b4bc39e597de86",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6476,8 +6476,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/TheBox.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "6db10ad7884c0044082b005c52b4fef7",
-			"FullPackageHash": "7535b20c50645c947fce0b6afa612269",
+			"DependentPackageHash": "a9d8a7f9d1d5681554ec6ca62614177f",
+			"FullPackageHash": "309fb2e6861dd23063809810285c96be",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6573,8 +6573,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Maps/TutorialMap.umap",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "247f2c86e409290ca909b792b95003ce",
-			"FullPackageHash": "e6000b72b788b4c44a9beff3141915e4",
+			"DependentPackageHash": "c3abd41e0cdb6b1efe7331843f3b8cf9",
+			"FullPackageHash": "187744e2615a5ea90c00579b1c9eb7bb",
 			"DependencyData": [
 				"/Script/BlueprintGraph",
 				"/Script/CoreUObject",
@@ -6593,8 +6593,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Maps/TutorialMap_BuiltData.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "1a836b641aa3e7096759b44e99a8259e",
-			"FullPackageHash": "d0366c5dcbcf705bd0216d417cb0a2cd",
+			"DependentPackageHash": "129a0a269c3d634f4ec5cca0b6526a7a",
+			"FullPackageHash": "81d98c80bd19fb87aa6cb70d0ce9dd92",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
@@ -9263,48 +9263,6 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
-			"CookedPackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "8b39123782d939d2754764e77f2be0f9",
-			"FullPackageHash": "e18b33250c9e33adc611378eb0674054",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
-			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "9ef25a78cde0856d0af4d62fb0020bab",
-			"FullPackageHash": "de22f5853053d0b4dff1d74087561a70",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
 			"SourcePackageName": "/Engine/Tutorial/SubEditors/MaterialEditorTutorial",
 			"CookedPackageName": "/Engine/Tutorial/SubEditors/MaterialEditorTutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -9335,6 +9293,27 @@
 			"SucceededSave": "false",
 			"DependentPackageHash": "b1347e2f5e85af429de66ca10cc0bdbf",
 			"FullPackageHash": "0f61f06c354a86498da2eb1725c79b42",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview",
+			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "382f6a149d6d0c9ad05f0b10cc370265",
+			"FullPackageHash": "f2cbe38792647aa3783ee97e51b60a14",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -9389,15 +9368,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib",
-			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib",
+			"SourcePackageName": "/Engine/Tutorial/SubEditors/StaticMeshEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/SubEditors/StaticMeshEditorTutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "6e89f5c579adcc39c44b4a501ea3467a",
-			"FullPackageHash": "1842b9bae152f34456abff13adabe167",
+			"DependentPackageHash": "283f0e77e57763f5490e88805d83e4ef",
+			"FullPackageHash": "fb40e9da8cd73863835ccb8753309bd2",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -9410,15 +9389,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/SubEditors/StaticMeshEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/SubEditors/StaticMeshEditorTutorial",
+			"SourcePackageName": "/Engine/Tutorial/Basics/LevelEditorOverview",
+			"CookedPackageName": "/Engine/Tutorial/Basics/LevelEditorOverview",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "283f0e77e57763f5490e88805d83e4ef",
-			"FullPackageHash": "fb40e9da8cd73863835ccb8753309bd2",
+			"DependentPackageHash": "7866dd2e36fc0309971cff5780d23fbc",
+			"FullPackageHash": "625dc93777ee7ed2738a58144aae6453",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -9452,15 +9431,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview",
-			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview",
+			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
+			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "382f6a149d6d0c9ad05f0b10cc370265",
-			"FullPackageHash": "f2cbe38792647aa3783ee97e51b60a14",
+			"DependentPackageHash": "9ef25a78cde0856d0af4d62fb0020bab",
+			"FullPackageHash": "de22f5853053d0b4dff1d74087561a70",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -9473,15 +9452,36 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/Basics/LevelEditorOverview",
-			"CookedPackageName": "/Engine/Tutorial/Basics/LevelEditorOverview",
+			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib",
+			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "7866dd2e36fc0309971cff5780d23fbc",
-			"FullPackageHash": "625dc93777ee7ed2738a58144aae6453",
+			"DependentPackageHash": "6e89f5c579adcc39c44b4a501ea3467a",
+			"FullPackageHash": "1842b9bae152f34456abff13adabe167",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
+			"CookedPackageName": "/Engine/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "8b39123782d939d2754764e77f2be0f9",
+			"FullPackageHash": "e18b33250c9e33adc611378eb0674054",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
