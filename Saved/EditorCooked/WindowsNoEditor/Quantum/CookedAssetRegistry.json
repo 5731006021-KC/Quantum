@@ -6142,8 +6142,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/BoxGenerator.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "fbad040db844ceeb3edf28cc9b130a86",
-			"FullPackageHash": "8f9d7b23f5cf7002ec70435330bcc129",
+			"DependentPackageHash": "88e76cd020c97e032b89b9bf7291c1fc",
+			"FullPackageHash": "96dcfc55c2fe0dfca1f7aa6a234f81fb",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6209,6 +6209,23 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Game/Blueprint/Enum/SourceEnum",
+			"CookedPackageName": "/Game/Blueprint/Enum/SourceEnum",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Enum/SourceEnum.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "382d92b7472f6636cdacc153fa641533",
+			"FullPackageHash": "abd87bfa2a0c9f3258c50c143c55e817",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Game/Blueprint/Enum/TheBoxEnum",
 			"CookedPackageName": "/Game/Blueprint/Enum/TheBoxEnum",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -6221,6 +6238,26 @@
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Blueprint/Forcefield",
+			"CookedPackageName": "/Game/Blueprint/Forcefield",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Forcefield.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "cd88d14e4ddc1e6f7a5259d76cfcb16a",
+			"FullPackageHash": "53ddde261ce21b737f0b7e6aa2f27289",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
@@ -6273,8 +6310,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Laser.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "9b6987ccdfca95b4b6f1db852d724b27",
-			"FullPackageHash": "c40d6007b35a0c276af44136a40ed665",
+			"DependentPackageHash": "64a288910ab938f8ca3da101a73687c2",
+			"FullPackageHash": "9d809dedf4e6b67f2361bea63e15b8e1",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6293,8 +6330,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/LaserSource.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "3834690cbe82d70eea8acbaf05bad6f9",
-			"FullPackageHash": "bf731fa48b48303808a4ddc89a62686d",
+			"DependentPackageHash": "432264011e6bbb22c4e230fc9171ca37",
+			"FullPackageHash": "bde7335bafbf7d1f5834ba7cdee7ba04",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6335,6 +6372,26 @@
 			"SucceededSave": "true",
 			"DependentPackageHash": "87dd61c20aceed2d4dc9fec64ccf2812",
 			"FullPackageHash": "3bf9996280203607b62d5fbc2fc521ff",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Blueprint/MySaveGame",
+			"CookedPackageName": "/Game/Blueprint/MySaveGame",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/MySaveGame.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "39fb78bbc2e958a589cbda3f2ceb779c",
+			"FullPackageHash": "5b7ee23062045bf2ec5533648818adbe",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6393,8 +6450,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/PuzzleGameInstance.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "4e3b5576076446a45d450c706039c3dd",
-			"FullPackageHash": "6dc239d8474606c64f68adefc2649b72",
+			"DependentPackageHash": "b6a4c78e30e2691f5346a4e841d6a410",
+			"FullPackageHash": "6ea71642fa0bb838572976dc4dcd466f",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6413,13 +6470,15 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/PuzzleGameMode.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "ba84417669225a99688c23231a87da1d",
-			"FullPackageHash": "28cc43c3e97a6b89faf8e463e01bf6cf",
+			"DependentPackageHash": "d4bf596a15e51916836eb4ff123c48d1",
+			"FullPackageHash": "5b6b33864b12225d3c322221871cd719",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
 				"/Script/CoreUObject",
 				"/Script/Engine",
+				"/Script/UMG",
+				"/Script/UMGEditor",
 				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
@@ -6433,8 +6492,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/PuzzlePlayer.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "843e9655c272214b5161b182ddccd61f",
-			"FullPackageHash": "77c46d51d6d2119382b4bc39e597de86",
+			"DependentPackageHash": "185ee897ae9ed05b990df44f38093af9",
+			"FullPackageHash": "e1149661c0dfb82132609666023b5775",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6476,8 +6535,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/TheBox.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "a9d8a7f9d1d5681554ec6ca62614177f",
-			"FullPackageHash": "309fb2e6861dd23063809810285c96be",
+			"DependentPackageHash": "19cc0fcd6d9246e9b7df6a567fd7f927",
+			"FullPackageHash": "c12cc98b40d5e39f408d4801999b67a3",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -6509,15 +6568,36 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Game/Blueprint/Tutorial",
-			"CookedPackageName": "/Game/Blueprint/Tutorial",
+			"SourcePackageName": "/Game/Blueprint/Widget/ShowTime",
+			"CookedPackageName": "/Game/Blueprint/Widget/ShowTime",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Tutorial.uasset",
+			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Widget/ShowTime.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "c90497cef4185368201c7829110a6846",
-			"FullPackageHash": "37d536bf4a6c309cd6f9fbaa4886c2e1",
+			"DependentPackageHash": "84101f223ba2c11781d961df1b86417c",
+			"FullPackageHash": "b2bcaab445b98fe1101650e6f948d441",
+			"DependencyData": [
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/SlateCore",
+				"/Script/UMG",
+				"/Script/UMGEditor"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Blueprint/Widget/Tutorial",
+			"CookedPackageName": "/Game/Blueprint/Widget/Tutorial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Blueprint/Widget/Tutorial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "7515bcb3e0e476a3c5c418b868800c37",
+			"FullPackageHash": "ff614efcc9a9d262b1a9e2c2aa697b34",
 			"DependencyData": [
 				"/Script/BlueprintGraph",
 				"/Script/CoreUObject",
@@ -6566,6 +6646,24 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Game/CollisionMesh/TurbineCollision",
+			"CookedPackageName": "/Game/CollisionMesh/TurbineCollision",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/CollisionMesh/TurbineCollision.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "be676d284b5c5f712510d82251a291f5",
+			"FullPackageHash": "307460d71c9dea9f8311a608ef2510d8",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Game/Maps/TutorialMap",
 			"CookedPackageName": "/Game/Maps/TutorialMap",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -6573,8 +6671,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Maps/TutorialMap.umap",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "c3abd41e0cdb6b1efe7331843f3b8cf9",
-			"FullPackageHash": "187744e2615a5ea90c00579b1c9eb7bb",
+			"DependentPackageHash": "9f4d5b23205e0033090570993758b401",
+			"FullPackageHash": "1b02c67aa0ee0e4187f142db4f4d677d",
 			"DependencyData": [
 				"/Script/BlueprintGraph",
 				"/Script/CoreUObject",
@@ -6593,8 +6691,8 @@
 			"ResolvedRelativePath": "E:/Quantum/Content/Maps/TutorialMap_BuiltData.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "true",
-			"DependentPackageHash": "129a0a269c3d634f4ec5cca0b6526a7a",
-			"FullPackageHash": "81d98c80bd19fb87aa6cb70d0ce9dd92",
+			"DependentPackageHash": "5a2f7d157c3c836bc5d1c4a1a6e860db",
+			"FullPackageHash": "187edc4df5920cff17f3729d77ba1fd4",
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
@@ -7998,6 +8096,163 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Game/Material/TurbineTexture/Turbine_Body_BaseColor",
+			"CookedPackageName": "/Game/Material/TurbineTexture/Turbine_Body_BaseColor",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TurbineTexture/Turbine_Body_BaseColor.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "91a248510c00d22e3860b853c9898002",
+			"FullPackageHash": "c8e2e2aeb4612ee13d2a5e943b2d27cd",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TurbineTexture/Turbine_Body_Emissive",
+			"CookedPackageName": "/Game/Material/TurbineTexture/Turbine_Body_Emissive",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TurbineTexture/Turbine_Body_Emissive.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "4179944dcc5e34f5c92dfb4e3e4ed422",
+			"FullPackageHash": "4d73ae5d30a87ce49888907b0e9a6d6d",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TurbineTexture/Turbine_Body_Mat",
+			"CookedPackageName": "/Game/Material/TurbineTexture/Turbine_Body_Mat",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TurbineTexture/Turbine_Body_Mat.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "540e2608d13bf6e07021ecceb3ea7f3f",
+			"FullPackageHash": "09b35d4866d31144a22d49f233e7c080",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TurbineTexture/Turbine_Body_Normal",
+			"CookedPackageName": "/Game/Material/TurbineTexture/Turbine_Body_Normal",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TurbineTexture/Turbine_Body_Normal.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "5a5cea8b5abb28e6b5614b59d8390df5",
+			"FullPackageHash": "371257e3cbe08b73159f3f4b256953bd",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TurbineTexture/Turbine_Body_OcclusionRoughnessMetallic",
+			"CookedPackageName": "/Game/Material/TurbineTexture/Turbine_Body_OcclusionRoughnessMetallic",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TurbineTexture/Turbine_Body_OcclusionRoughnessMetallic.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "4d518594a508547df1df1868864449c8",
+			"FullPackageHash": "2b5679d6dd087640beba25dc9ad8bf21",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TurbineTexture/Turbine_Glass_Mat",
+			"CookedPackageName": "/Game/Material/TurbineTexture/Turbine_Glass_Mat",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TurbineTexture/Turbine_Glass_Mat.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "e18aaab0587a1795c70607fdfae78523",
+			"FullPackageHash": "7bddd7a44cc6b22789b93cdb119565e9",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TurbineTexture/Turbine_Turbine_BaseColor",
+			"CookedPackageName": "/Game/Material/TurbineTexture/Turbine_Turbine_BaseColor",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TurbineTexture/Turbine_Turbine_BaseColor.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "3d89386a10e4c8f77325b4257628456a",
+			"FullPackageHash": "7466104660542963dbce71541a1c8f37",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TurbineTexture/Turbine_Turbine_Normal",
+			"CookedPackageName": "/Game/Material/TurbineTexture/Turbine_Turbine_Normal",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TurbineTexture/Turbine_Turbine_Normal.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "294854830bf4f8a50e4826344e812ff0",
+			"FullPackageHash": "e80af6d3a33ec99c3d2b4374f2b464dd",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/Material/TurbineTexture/Turbine_Turbine_OcclusionRoughnessMetallic",
+			"CookedPackageName": "/Game/Material/TurbineTexture/Turbine_Turbine_OcclusionRoughnessMetallic",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/Material/TurbineTexture/Turbine_Turbine_OcclusionRoughnessMetallic.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "e221922b4fb50efd2352d54e78a834d5",
+			"FullPackageHash": "26f7b3517d437c803f0601e046644f22",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Game/Material/Unit_Highlight_Mat/MF_ConvolveTexture",
 			"CookedPackageName": "/Game/Material/Unit_Highlight_Mat/MF_ConvolveTexture",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -8478,6 +8733,76 @@
 			"AssetData": []
 		},
 		{
+			"SourcePackageName": "/Game/SkeletonMesh/Turbine/Turbine",
+			"CookedPackageName": "/Game/SkeletonMesh/Turbine/Turbine",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/SkeletonMesh/Turbine/Turbine.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "a4659bd552c8fd8345ce99fb7dc5eb38",
+			"FullPackageHash": "03d90a04d030afdfbaea722042bd56e0",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/SkeletonMesh/Turbine/Turbine_Anim",
+			"CookedPackageName": "/Game/SkeletonMesh/Turbine/Turbine_Anim",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/SkeletonMesh/Turbine/Turbine_Anim.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1842de10bf81b4c19fa945825b1998e7",
+			"FullPackageHash": "a2a23de4382313e8f0375444fa4bb3e1",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/SkeletonMesh/Turbine/Turbine_PhysicsAsset",
+			"CookedPackageName": "/Game/SkeletonMesh/Turbine/Turbine_PhysicsAsset",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/SkeletonMesh/Turbine/Turbine_PhysicsAsset.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "08d35ed3c27de7b96e6699cec145f48b",
+			"FullPackageHash": "9f0d39e0854069fe8484b2c81a32a435",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/SkeletonMesh/Turbine/Turbine_Skeleton",
+			"CookedPackageName": "/Game/SkeletonMesh/Turbine/Turbine_Skeleton",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/SkeletonMesh/Turbine/Turbine_Skeleton.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "1ecd3fa4569accea912d6552076e9f9d",
+			"FullPackageHash": "3ec65fbb44b54b9cbb29998f86628846",
+			"DependencyData": [
+				"/Script/CoreUObject",
+				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
 			"SourcePackageName": "/Game/SoundVFX/GunFire02",
 			"CookedPackageName": "/Game/SoundVFX/GunFire02",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
@@ -8490,6 +8815,25 @@
 			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/StarterContent/Materials/M_Basic_Wall",
+			"CookedPackageName": "/Game/StarterContent/Materials/M_Basic_Wall",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "808381684da84816f1e7a87f2d8f6ce7",
+			"FullPackageHash": "356ba728ac67d8a49e8912d0db3b5d34",
+			"DependencyData": [
+				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
 			],
 			"FileSize": "-1",
 			"AssetData": []
@@ -8601,6 +8945,24 @@
 			"FullPackageHash": "536a0c338acf9b172615c8bc1f03393b",
 			"DependencyData": [
 				"*** SHADERSOURCE ***",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Game/StarterContent/Shapes/Shape_Cylinder",
+			"CookedPackageName": "/Game/StarterContent/Shapes/Shape_Cylinder",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "E:/Quantum/Content/StarterContent/Shapes/Shape_Cylinder.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "true",
+			"DependentPackageHash": "283334d710d2239afd8f60ab0602f393",
+			"FullPackageHash": "15400eb202a985d799b6adc18bd36e44",
+			"DependencyData": [
 				"/Script/CoreUObject",
 				"/Script/Engine",
 				"/Script/UnrealEd"
@@ -9284,15 +9646,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/SubEditors/DestructibleMeshEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/SubEditors/DestructibleMeshEditorTutorial",
+			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
+			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "b1347e2f5e85af429de66ca10cc0bdbf",
-			"FullPackageHash": "0f61f06c354a86498da2eb1725c79b42",
+			"DependentPackageHash": "9ef25a78cde0856d0af4d62fb0020bab",
+			"FullPackageHash": "de22f5853053d0b4dff1d74087561a70",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -9305,15 +9667,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview",
-			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview",
+			"SourcePackageName": "/Engine/Tutorial/SubEditors/DestructibleMeshEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/SubEditors/DestructibleMeshEditorTutorial",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "382f6a149d6d0c9ad05f0b10cc370265",
-			"FullPackageHash": "f2cbe38792647aa3783ee97e51b60a14",
+			"DependentPackageHash": "b1347e2f5e85af429de66ca10cc0bdbf",
+			"FullPackageHash": "0f61f06c354a86498da2eb1725c79b42",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -9410,36 +9772,15 @@
 			"AssetData": []
 		},
 		{
-			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintEditorTutorial",
-			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintEditorTutorial",
+			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview",
+			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview",
 			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
 			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset",
 			"IsEditorOnly": "false",
 			"SucceededSave": "false",
-			"DependentPackageHash": "c08d72cdb605d8aebf081bc0b62488a6",
-			"FullPackageHash": "3e4773f1d334cf622eaaab4cfeed1e95",
-			"DependencyData": [
-				"*** SCRIPTSOURCE ***",
-				"/Script/BlueprintGraph",
-				"/Script/CoreUObject",
-				"/Script/Engine",
-				"/Script/IntroTutorials",
-				"/Script/UnrealEd"
-			],
-			"FileSize": "-1",
-			"AssetData": []
-		},
-		{
-			"SourcePackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
-			"CookedPackageName": "/Engine/Tutorial/Foliage/Foliage_Settings_Tutorial",
-			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
-			"FileSize": "-1",
-			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset",
-			"IsEditorOnly": "false",
-			"SucceededSave": "false",
-			"DependentPackageHash": "9ef25a78cde0856d0af4d62fb0020bab",
-			"FullPackageHash": "de22f5853053d0b4dff1d74087561a70",
+			"DependentPackageHash": "382f6a149d6d0c9ad05f0b10cc370265",
+			"FullPackageHash": "f2cbe38792647aa3783ee97e51b60a14",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
@@ -9461,6 +9802,27 @@
 			"SucceededSave": "false",
 			"DependentPackageHash": "6e89f5c579adcc39c44b4a501ea3467a",
 			"FullPackageHash": "1842b9bae152f34456abff13adabe167",
+			"DependencyData": [
+				"*** SCRIPTSOURCE ***",
+				"/Script/BlueprintGraph",
+				"/Script/CoreUObject",
+				"/Script/Engine",
+				"/Script/IntroTutorials",
+				"/Script/UnrealEd"
+			],
+			"FileSize": "-1",
+			"AssetData": []
+		},
+		{
+			"SourcePackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintEditorTutorial",
+			"CookedPackageName": "/Engine/Tutorial/BlueprintTutorials/BlueprintEditorTutorial",
+			"CookedPackageTimeStamp": "0001.01.01-00.00.00",
+			"FileSize": "-1",
+			"ResolvedRelativePath": "../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset",
+			"IsEditorOnly": "false",
+			"SucceededSave": "false",
+			"DependentPackageHash": "c08d72cdb605d8aebf081bc0b62488a6",
+			"FullPackageHash": "3e4773f1d334cf622eaaab4cfeed1e95",
 			"DependencyData": [
 				"*** SCRIPTSOURCE ***",
 				"/Script/BlueprintGraph",
